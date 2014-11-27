@@ -1,0 +1,18 @@
+%%%-------------------------------------------------------------------
+%%% @author lhd
+%%% @copyright (C) 2014, <COMPANY>
+%%% @doc
+%%%
+%%% @end
+%%% Created : 27. Nov 2014 4:54 PM
+%%%-------------------------------------------------------------------
+{application, intelligence, [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+  ]},
+  {env, []}
+]}.
